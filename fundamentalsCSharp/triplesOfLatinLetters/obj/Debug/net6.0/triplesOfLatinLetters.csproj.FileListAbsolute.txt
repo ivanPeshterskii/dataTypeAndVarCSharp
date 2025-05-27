@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/bin/Debug/net6.0/triplesOfLatinLetters
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/bin/Debug/net6.0/triplesOfLatinLetters.deps.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/bin/Debug/net6.0/triplesOfLatinLetters.runtimeconfig.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/bin/Debug/net6.0/triplesOfLatinLetters.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/bin/Debug/net6.0/triplesOfLatinLetters.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/obj/Debug/net6.0/triplesOfLatinLetters.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/obj/Debug/net6.0/triplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/obj/Debug/net6.0/triplesOfLatinLetters.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/obj/Debug/net6.0/triplesOfLatinLetters.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/obj/Debug/net6.0/triplesOfLatinLetters.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/obj/Debug/net6.0/triplesOfLatinLetters.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/obj/Debug/net6.0/refint/triplesOfLatinLetters.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/obj/Debug/net6.0/triplesOfLatinLetters.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/obj/Debug/net6.0/triplesOfLatinLetters.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/triplesOfLatinLetters/obj/Debug/net6.0/ref/triplesOfLatinLetters.dll

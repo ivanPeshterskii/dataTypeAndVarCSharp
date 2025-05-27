@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/bin/Debug/net6.0/beerKegs
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/bin/Debug/net6.0/beerKegs.deps.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/bin/Debug/net6.0/beerKegs.runtimeconfig.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/bin/Debug/net6.0/beerKegs.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/bin/Debug/net6.0/beerKegs.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/obj/Debug/net6.0/beerKegs.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/obj/Debug/net6.0/beerKegs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/obj/Debug/net6.0/beerKegs.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/obj/Debug/net6.0/beerKegs.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/obj/Debug/net6.0/beerKegs.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/obj/Debug/net6.0/beerKegs.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/obj/Debug/net6.0/refint/beerKegs.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/obj/Debug/net6.0/beerKegs.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/obj/Debug/net6.0/beerKegs.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/beerKegs/obj/Debug/net6.0/ref/beerKegs.dll

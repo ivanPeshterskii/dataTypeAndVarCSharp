@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/bin/Debug/net6.0/sumDigits
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/bin/Debug/net6.0/sumDigits.deps.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/bin/Debug/net6.0/sumDigits.runtimeconfig.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/bin/Debug/net6.0/sumDigits.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/bin/Debug/net6.0/sumDigits.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/obj/Debug/net6.0/sumDigits.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/obj/Debug/net6.0/sumDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/obj/Debug/net6.0/sumDigits.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/obj/Debug/net6.0/sumDigits.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/obj/Debug/net6.0/sumDigits.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/obj/Debug/net6.0/sumDigits.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/obj/Debug/net6.0/refint/sumDigits.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/obj/Debug/net6.0/sumDigits.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/obj/Debug/net6.0/sumDigits.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/sumDigits/obj/Debug/net6.0/ref/sumDigits.dll

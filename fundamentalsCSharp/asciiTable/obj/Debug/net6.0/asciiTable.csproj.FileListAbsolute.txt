@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/bin/Debug/net6.0/asciiTable
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/bin/Debug/net6.0/asciiTable.deps.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/bin/Debug/net6.0/asciiTable.runtimeconfig.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/bin/Debug/net6.0/asciiTable.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/bin/Debug/net6.0/asciiTable.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/obj/Debug/net6.0/asciiTable.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/obj/Debug/net6.0/asciiTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/obj/Debug/net6.0/asciiTable.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/obj/Debug/net6.0/asciiTable.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/obj/Debug/net6.0/asciiTable.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/obj/Debug/net6.0/asciiTable.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/obj/Debug/net6.0/refint/asciiTable.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/obj/Debug/net6.0/asciiTable.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/obj/Debug/net6.0/asciiTable.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/asciiTable/obj/Debug/net6.0/ref/asciiTable.dll

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{462DDE1F-32B1-4AEE-A20E-CA108BE93A89}|Default">
+  <MonoDevelop.Ide.ItemProperties.charSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.waterOverflow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="beerKegs/Program.cs">
+    <Files>
+      <File FileName="integerOperations/Program.cs" Line="10" Column="35" />
+      <File FileName="sumDigits/Program.cs" Line="1" Column="1" />
+      <File FileName="elevator/Program.cs" Line="1" Column="1" />
+      <File FileName="charSum/Program.cs" Line="6" Column="1" />
+      <File FileName="asciiTable/Program.cs" Line="1" Column="1" />
+      <File FileName="triplesOfLatinLetters/Program.cs" Line="1" Column="1" />
+      <File FileName="waterOverflow/Program.cs" Line="1" Column="1" />
+      <File FileName="beerKegs/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.asciiTable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.beerKegs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.integerOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.elevator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.sumDigits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.triplesOfLatinLetters PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

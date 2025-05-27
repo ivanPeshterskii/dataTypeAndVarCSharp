@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/obj/Debug/net6.0/elevator.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/obj/Debug/net6.0/elevator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/obj/Debug/net6.0/elevator.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/obj/Debug/net6.0/elevator.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/obj/Debug/net6.0/elevator.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/bin/Debug/net6.0/elevator
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/bin/Debug/net6.0/elevator.deps.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/bin/Debug/net6.0/elevator.runtimeconfig.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/bin/Debug/net6.0/elevator.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/bin/Debug/net6.0/elevator.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/obj/Debug/net6.0/elevator.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/obj/Debug/net6.0/refint/elevator.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/obj/Debug/net6.0/elevator.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/obj/Debug/net6.0/elevator.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/elevator/obj/Debug/net6.0/ref/elevator.dll

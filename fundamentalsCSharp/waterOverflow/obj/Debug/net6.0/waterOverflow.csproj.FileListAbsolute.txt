@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/bin/Debug/net6.0/waterOverflow
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/bin/Debug/net6.0/waterOverflow.deps.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/bin/Debug/net6.0/waterOverflow.runtimeconfig.json
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/bin/Debug/net6.0/waterOverflow.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/bin/Debug/net6.0/waterOverflow.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/obj/Debug/net6.0/waterOverflow.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/obj/Debug/net6.0/waterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/obj/Debug/net6.0/waterOverflow.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/obj/Debug/net6.0/waterOverflow.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/obj/Debug/net6.0/waterOverflow.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/obj/Debug/net6.0/waterOverflow.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/obj/Debug/net6.0/refint/waterOverflow.dll
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/obj/Debug/net6.0/waterOverflow.pdb
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/obj/Debug/net6.0/waterOverflow.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/fundamentalsCSharp/waterOverflow/obj/Debug/net6.0/ref/waterOverflow.dll
